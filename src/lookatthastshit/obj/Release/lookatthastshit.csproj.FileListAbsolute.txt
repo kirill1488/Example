@@ -1,0 +1,11 @@
+c:\users\appst\source\repos\lookatthastshit\lookatthastshit\bin\Release\lookatthastshit.exe.config
+c:\users\appst\source\repos\lookatthastshit\lookatthastshit\bin\Release\lookatthastshit.exe
+c:\users\appst\source\repos\lookatthastshit\lookatthastshit\bin\Release\lookatthastshit.pdb
+c:\users\appst\source\repos\lookatthastshit\lookatthastshit\obj\Release\lookatthastshit.Form1.resources
+c:\users\appst\source\repos\lookatthastshit\lookatthastshit\obj\Release\lookatthastshit.Properties.Resources.resources
+c:\users\appst\source\repos\lookatthastshit\lookatthastshit\obj\Release\lookatthastshit.csproj.GenerateResource.Cache
+c:\users\appst\source\repos\lookatthastshit\lookatthastshit\obj\Release\lookatthastshit.csproj.CoreCompileInputs.cache
+c:\users\appst\source\repos\lookatthastshit\lookatthastshit\obj\Release\lookatthastshit.exe
+c:\users\appst\source\repos\lookatthastshit\lookatthastshit\obj\Release\lookatthastshit.pdb
+C:\Users\appst\source\repos\lookatthastshit\lookatthastshit\obj\Release\lookatthastshit.csprojResolveAssemblyReference.cache
+C:\Users\appst\source\repos\lookatthastshit\lookatthastshit\bin\Release\helpfunc.dll

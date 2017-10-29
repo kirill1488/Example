@@ -1,0 +1,11 @@
+c:\users\appst\source\repos\lookatthastshit\lookatthastshit\bin\Debug\lookatthastshit.exe.config
+c:\users\appst\source\repos\lookatthastshit\lookatthastshit\bin\Debug\lookatthastshit.exe
+c:\users\appst\source\repos\lookatthastshit\lookatthastshit\bin\Debug\lookatthastshit.pdb
+c:\users\appst\source\repos\lookatthastshit\lookatthastshit\obj\Debug\lookatthastshit.csprojResolveAssemblyReference.cache
+c:\users\appst\source\repos\lookatthastshit\lookatthastshit\obj\Debug\lookatthastshit.Form1.resources
+c:\users\appst\source\repos\lookatthastshit\lookatthastshit\obj\Debug\lookatthastshit.Properties.Resources.resources
+c:\users\appst\source\repos\lookatthastshit\lookatthastshit\obj\Debug\lookatthastshit.csproj.GenerateResource.Cache
+c:\users\appst\source\repos\lookatthastshit\lookatthastshit\obj\Debug\lookatthastshit.csproj.CoreCompileInputs.cache
+c:\users\appst\source\repos\lookatthastshit\lookatthastshit\obj\Debug\lookatthastshit.exe
+c:\users\appst\source\repos\lookatthastshit\lookatthastshit\obj\Debug\lookatthastshit.pdb
+c:\users\appst\source\repos\lookatthastshit\lookatthastshit\obj\Debug\lookatthastshit.Form2.resources
